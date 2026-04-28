@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://georgeorwell8684.github.io/8684ofgate</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://georgeorwell8684.github.io/8684ofgate</link></image><lastBuildDate>Tue, 28 Apr 2026 17:52:45 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Wellcome to 8684 Of Gate</title><link>https://georgeorwell8684.github.io/8684ofgate/post/Wellcome%20to%208684%20Of%20Gate.html</link><description>[Home   ](https://georgeorwell8684.github.io/8684ofgate/)
+[Home   ](https://georgeorwell8684.github.io/8684ofgate/)
 
 |烧录工具 | [Rufus](https://rufus.ie/en/#download)| [balenaEtcher](https://sourceforge.net/projects/etcher.mirror/files/v2.1.4/) | [UNetbootin](https://sourceforge.net/projects/unetbootin/files/UNetbootin/702/) |
 | --- | --- | --- | --- |
@@ -11,7 +10,7 @@
 | *| * | * | * |
 | Of | [2021](https://archive.org/download/Office-2021-Collection/Office%202021%20Professional%20Plus.iso) | --- | --- |
 | *| * | * | * |
-| 浏览器擴展 | uBlock Origin | Multi Search | Click&amp;Clean |
+| 浏览器擴展 | uBlock Origin | Multi Search | Click&Clean |
 | QR Code Generator  | Saladict | Dual Subtitles | Split Tab |
 | Image Cropper  | User-Agent Switcher | Print Friendly |  |
 | * | * | * | * |
@@ -21,4 +20,3 @@
 
 installUserFolder2D
 WO Powershell：irm https://get.activated.win | iex
-。</description><guid isPermaLink="true">https://georgeorwell8684.github.io/8684ofgate/post/Wellcome%20to%208684%20Of%20Gate.html</guid><pubDate>Sun, 29 Mar 2026 06:25:58 +0000</pubDate></item></channel></rss>
