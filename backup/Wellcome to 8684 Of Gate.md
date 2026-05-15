@@ -16,7 +16,20 @@
 | * | * | * | * |
 | kitshub | [7zip](https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe) | [installUserFolder2D](https://github.com/georgeorwell8684/8684ofgate/blob/f46e8a4c16c1ebce1c7c95f38ca7a8b9dd991a6a/installUserFolder2D.zip) | --- |
 | * | * | * | * |
+| **.Net **| [vcredist_x86](https://www.microsoft.com/zh-cn/download/details.aspx?id=40784) | [vcredist_x64](https://www.microsoft.com/zh-cn/download/details.aspx?id=40784) | [VC_redist.x64](https://www.microsoft.com/zh-cn/download/details.aspx?id=48145) |
+| [dotnetfx35](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net35-sp1-offline-installer) | [NDP452](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net452-offline-installer) | [NDP462](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net462-offline-installer) | [NDP472](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-offline-installer) |
+| [NDP48](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-offline-installer) | [DirectX12](https://archive.org/download/directx12_202501/DirectX%20Offline.zip) | --- | --- |
 | O | --- | --- | --- |
+| O | --- | --- | --- |
+| O | --- | --- | --- |
+| O | --- | --- | --- |
+| O | --- | --- | --- |
+
+
+
+
+
+
 
 installUserFolder2D
 WO Powershell：irm https://get.activated.win | iex
